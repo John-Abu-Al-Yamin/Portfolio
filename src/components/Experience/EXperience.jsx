@@ -67,7 +67,7 @@ const EXperience = () => {
             <article className="experience-detalis">
               <FaCheckCircle />
               <div>
-                <h4>React.Js</h4>
+                <h4>React-Js</h4>
                 <small className="text-light">Average Level</small>
               </div>
             </article>
@@ -151,13 +151,7 @@ const EXperience = () => {
                 <small className="text-light">Average Level</small>
               </div>
             </article>
-            <article className="experience-detalis">
-              <FaCheckCircle />
-              <div>
-                <h4>Firebase</h4>
-                <small className="text-light">Average Level</small>
-              </div>
-            </article>
+
             <article className="experience-detalis">
               <FaCheckCircle />
               <div>
