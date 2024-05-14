@@ -154,6 +154,13 @@ const EXperience = () => {
             <article className="experience-detalis">
               <FaCheckCircle />
               <div>
+                <h4>Firebase</h4>
+                <small className="text-light">Average Level</small>
+              </div>
+            </article>
+            <article className="experience-detalis">
+              <FaCheckCircle />
+              <div>
                 <h4>Express js</h4>
                 <small className="text-light">Average Level</small>
               </div>
