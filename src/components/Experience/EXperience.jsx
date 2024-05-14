@@ -102,21 +102,6 @@ const EXperience = () => {
                 <small className="text-light">Average Level</small>
               </div>
             </article>
-            <article className="experience-detalis">
-              <FaCheckCircle />
-              <div>
-                <h4>PostMan </h4>
-                <small className="text-light">Average Level</small>
-              </div>
-            </article>
-
-            <article className="experience-detalis">
-              <FaCheckCircle />
-              <div>
-                <h4>Git & GitHub</h4>
-                <small className="text-light">Average Level</small>
-              </div>
-            </article>
           </div>
         </div>
 
@@ -149,6 +134,20 @@ const EXperience = () => {
               <FaCheckCircle />
               <div>
                 <h4>Mongoose</h4>
+                <small className="text-light">Average Level</small>
+              </div>
+            </article>
+            <article className="experience-detalis">
+              <FaCheckCircle />
+              <div>
+                <h4>Postman </h4>
+                <small className="text-light">Average Level</small>
+              </div>
+            </article>
+            <article className="experience-detalis">
+              <FaCheckCircle />
+              <div>
+                <h4>Git & GitHub</h4>
                 <small className="text-light">Average Level</small>
               </div>
             </article>
